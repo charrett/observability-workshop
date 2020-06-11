@@ -1,6 +1,6 @@
 
 # Overview
-The following instructions are far people who already have a linux based instance which has at least 16GB of memory running. If you still need to do this you can do so in any way you are comfortable, or follow our [AWS](./create_vm_in_aws.md) or [Azure](./create_vm_in_azure.md) instructions.
+The following instructions are for people who already have a linux based instance which has at least 16GB of memory running. If you still need to do this you can do so in any way you are comfortable, or follow our [AWS](./create_vm_in_aws.md) or [Azure](./create_vm_in_azure.md) instructions.
 
 # Assumptions:
 1) You have followed the instructions in 'create vm in aws' and have at least 16GB of Memory
